@@ -1,0 +1,78 @@
+
+
+# Privacy Policy
+
+**Resume Builder**
+**Organization:** Naachyss
+**Email:** [innvoice.naachyss@gmail.com](mailto:innvoice.naachyss@gmail.com)
+
+**Last updated:** 23 December 2025
+
+---
+
+## Introduction
+
+Naachyss built the **Resume Builder** app as a free application. This app is provided by Naachyss and is intended for use as is.
+
+Your privacy is very important to us. This Privacy Policy explains how your information is handled when you use the Resume Builder application.
+
+---
+
+## Information Collection and Use
+
+**Resume Builder does NOT collect, store, transmit, or share any personal data.**
+
+* All information entered into the app (such as resume details, personal information, education, or work experience) is stored **locally on your mobile device only**.
+* We do **not** collect any personal data on our servers.
+* We do **not** require users to create an account.
+* We do **not** access, track, or upload your data.
+
+---
+
+## Data Storage
+
+* All data remains **entirely on the user’s device**.
+* Data is used only to generate and display resumes within the app.
+* If you uninstall the app, all stored data is permanently removed from your device.
+
+---
+
+## Third-Party Services
+
+The Resume Builder app does **not** use any third-party services that collect user data.
+
+---
+
+## Internet Usage
+
+* The app works **offline**.
+* No data is transmitted over the internet from the app.
+
+---
+
+## Data Security
+
+Since all data is stored locally on your device, data security depends on your device’s security settings. We do not have access to your data at any time.
+
+---
+
+## Children’s Privacy
+
+This app does not knowingly collect any personal information from children under the age of 13. Since no data collection occurs, there is no risk of children’s data being stored or shared.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated revision date.
+
+---
+
+## Contact Us
+
+If you have any questions or suggestions about this Privacy Policy, feel free to contact us:
+
+📧 **Email:** [innvoice.naachyss@gmail.com](mailto:innvoice.naachyss@gmail.com)
+
+---
+
